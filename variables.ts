@@ -6,4 +6,6 @@ let activeMember = true;
 
 //firstNumber = 123;
 
+let someVAr : boolean;
 
+ 
